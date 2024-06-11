@@ -1,0 +1,106 @@
+{
+  "shortDescription": "Test your knowledge of animals with this quiz.",
+  "questions": [
+    {
+      "question": "Fastest land animal?",
+      "answers": ["Cheetah", "Lion", "Tiger"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest mammal?",
+      "answers": ["Whale", "Elephant", "Giraffe"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "King of the jungle?",
+      "answers": ["Lion", "Tiger", "Jaguar"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Tallest animal?",
+      "answers": ["Giraffe", "Elephant", "Kangaroo"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Flightless bird?",
+      "answers": ["Penguin", "Eagle", "Parrot"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Animal with a trunk?",
+      "answers": ["Elephant", "Giraffe", "Rhino"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest primate?",
+      "answers": ["Gorilla", "Orangutan", "Chimp"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Fastest bird?",
+      "answers": ["Falcon", "Eagle", "Owl"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Color-changing lizard?",
+      "answers": ["Chameleon", "Gecko", "Iguana"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Venomous snake?",
+      "answers": ["Cobra", "Python", "Boa"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Largest ocean animal?",
+      "answers": ["Whale", "Shark", "Dolphin"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Animal with stripes?",
+      "answers": ["Tiger", "Lion", "Cheetah"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Animal with humps?",
+      "answers": ["Camel", "Horse", "Zebra"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Biggest cat?",
+      "answers": ["Tiger", "Lion", "Leopard"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Animal with antlers?",
+      "answers": ["Deer", "Moose", "Horse"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Nocturnal bird?",
+      "answers": ["Owl", "Eagle", "Sparrow"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Marine mammal?",
+      "answers": ["Dolphin", "Shark", "Octopus"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Pouch-carrying animal?",
+      "answers": ["Kangaroo", "Elephant", "Lion"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Slow-moving mammal?",
+      "answers": ["Sloth", "Cheetah", "Monkey"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Animal with tusks?",
+      "answers": ["Walrus", "Seal", "Penguin"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
+
